@@ -1,8 +1,8 @@
-# SYS 611 Examples
+# IEE 545 Examples
 
-Paul T. Grogan <pgrogan@stevens.edu>
+Paul T. Grogan <paul.grogan@asu.edu>
 
-Python code examples for SYS 611 Systems Modeling and Simulation. All examples in this repository are available under an MIT license (see LICENSE file). If you require an alternative license, please contact me.
+Python code examples for IEE 545 Advanced Simulating Stochastic Systems. All examples in this repository are available under an MIT license (see LICENSE file). If you require an alternative license, please contact me.
 
 ## Format and Access
 
